@@ -1,0 +1,34 @@
+{
+    "instance_id": "NEWCASTLE-09-BASE",
+    "num_dry_ports": 9,
+    "num_modes": 2,
+    "modes": [
+        "road",
+        "rail"
+    ],
+    "purpose": "Newcastle port-hinterland network resilience analysis",
+
+    "seaport": {
+        "seaport_id": "Port of Newcastle",
+        "x_coordinate": 151.7801,
+        "y_coordinate": -32.9295
+    },
+
+    "emission_cost_per_kg": 0.05,
+    "unmet_penalty": 12370.0,
+
+    "seaport_capacity_teu": null,
+    "merchandise_value_per_teu_aud": null,
+
+    "units": {
+        "distance": "km",
+        "demand": "TEU",
+        "capacity": "TEU",
+        "cost": "AUD",
+        "transport_cost": "AUD/TEU",
+        "processing_cost": "AUD/TEU",
+        "emissions": "kg CO2-e/TEU",
+        "emissions_coefficient": "kg CO2-e/(TEU km)",
+        "emission_cost": "AUD/kg CO2-e"
+    }
+}

@@ -1,0 +1,19 @@
+﻿dry_port_id,mode,transport_cost,transport_emissions,connection_capacity
+Tamworth,road,639,203.313916,34542
+Tamworth,rail,413,70.663983,39600
+Narrabri,road,738,336.986052,34887
+Narrabri,rail,625,117.123201,39200
+Moree,road,821,400.415184,30957
+Moree,rail,761,139.168692,36200
+Parkes,road,911,402.118652,30726
+Parkes,rail,929,139.760751,31200
+Dubbo,road,719,359.932768,32970
+Dubbo,rail,709,125.098584,35200
+Casino,road,858,426.067408,29421
+Casino,rail,873,148.084404,34600
+Broken Hill,road,1648,1154.35008,30516
+Broken Hill,rail,2449,401.20704,38600
+Albury,road,1068,619.360924,33408
+Albury,rail,1291,215.265687,36000
+Stockinbingal,road,895,459.735952,30102
+Stockinbingal,rail,945,159.786276,33200
